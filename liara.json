@@ -1,0 +1,10 @@
+{
+    "platform": "django",
+    "app": "nepenthe",
+    "disks": [
+        {
+            "name": "disk",
+            "mountTo": "data"
+        }
+    ]
+}
